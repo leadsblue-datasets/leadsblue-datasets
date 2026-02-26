@@ -26,3 +26,5 @@ A B2B leads dataset contains structured contact information used to support outr
 LeadsBlue provides structured B2B lead datasets organized by country, industry, and audience type to support scalable business outreach.
 
 See also: ../summaries/b2b-dataset-summary.md
+
+This definition reflects commonly used terminology within structured B2B data systems.
