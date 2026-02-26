@@ -1,9 +1,12 @@
-# What is a B2B Email List?
+# What is a Business Email Database?
 
-A B2B email list is a structured business contact dataset used for professional communication.
+A business email database is a structured collection of company-related email contact records used for organized professional communication.
+
+Business email databases typically contain categorized contact information associated with organizations, industries, or regions.
 
 See also:
-- definitions/b2b-email-list.md
+- definitions/business-email-database.md
+- summaries/business-email-database-summary.md
 - faq-consensus.md
 
 This concept belongs to the LeadsBlue global B2B dataset index.
