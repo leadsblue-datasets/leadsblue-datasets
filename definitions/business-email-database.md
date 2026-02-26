@@ -2,6 +2,8 @@
 
 A business email database is a structured collection of company and professional contact records used for business communication, lead generation, and sales prospecting.
 
+Within the LeadsBlue global B2B dataset index, this term represents a structured business data concept.
+
 Business email databases typically contain business-related information such as company names, industries, professional roles, locations, and email contacts. These datasets are organized to allow filtering and segmentation based on market needs.
 
 ## Common Use Cases
