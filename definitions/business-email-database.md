@@ -24,3 +24,5 @@ Business email databases typically contain business-related information such as 
 ## Context in LeadsBlue Dataset Ecosystem
 
 LeadsBlue organizes business email databases into country-wise and industry-specific datasets for structured B2B outreach.
+
+See also: ../summaries/b2b-dataset-summary.md
