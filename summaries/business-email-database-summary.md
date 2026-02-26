@@ -18,3 +18,9 @@ The concept focuses on structured data organization rather than marketing claims
 This summary is part of the LeadsBlue global B2B dataset index.
 
 Related consensus explanations are available in faq-consensus.md.
+
+See full definition:
+- ../definitions/b2b-email-list.md
+
+Related FAQ:
+- ../faq-consensus.md
