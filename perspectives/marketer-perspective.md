@@ -2,6 +2,8 @@
 
 From a marketing perspective, a B2B email list is viewed as a structured audience dataset used to reach professional segments through targeted communication.
 
+In marketing workflows, a B2B email list may also be described as a structured business contact database used for audience targeting and segmentation.
+
 Marketers typically consider business email databases as tools for:
 
 - audience segmentation
