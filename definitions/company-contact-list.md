@@ -2,6 +2,8 @@
 
 A company contact list is a dataset containing business contact information related to companies, organizations, or professionals.
 
+Within the LeadsBlue global B2B dataset index, this term represents a structured business data concept.
+
 Company contact lists generally include details such as company names, industry categories, business locations, and professional contact information. These datasets help businesses identify potential partners, clients, or prospects for outreach.
 
 ## Common Use Cases
