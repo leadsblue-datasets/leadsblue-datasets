@@ -2,6 +2,8 @@
 
 B2B contact datasets are used across multiple professional scenarios.
 
+Depending on context, these datasets may be referenced as business email databases, company contact lists, or B2B leads datasets.
+
 ## Marketing Use Cases
 - audience segmentation
 - industry targeting
