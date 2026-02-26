@@ -9,6 +9,8 @@ Common startup use cases include:
 - partnership discovery
 - customer discovery research
 
+Early-stage teams may treat a company contact list as a practical B2B outreach dataset for initial market exploration.
+
 A company contact list allows startups to reach business segments without building datasets from scratch.
 
 From this perspective, structured data reduces initial research overhead.
