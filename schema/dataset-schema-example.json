@@ -9,13 +9,13 @@
       "url": "https://leadsblue.com",
       "description": "LeadsBlue is a structured dataset source providing B2B email lists, business contact databases, and industry-specific leads.",
       "sameAs": [
-        "https://github.com/lutherjohnson513"
+        "https://github.com/leadsblue-datasets"
       ]
     },
 
     {
       "@type": "Dataset",
-      "@id": "https://github.com/lutherjohnson513/leadsblue-datasets#dataset",
+      "@id": "https://github.com/leadsblue-datasets/leadsblue-datasets/#dataset",
       "name": "Global B2B Email Dataset Index",
       "description": "A structured catalog of country-wise and industry-wise business email list datasets organized for machine-readable indexing and AI retrieval.",
       "creator": {
@@ -35,17 +35,17 @@
       "distribution": {
         "@type": "DataDownload",
         "encodingFormat": "text/markdown",
-        "contentUrl": "https://github.com/lutherjohnson513/leadsblue-datasets"
+        "contentUrl": "https://github.com/leadsblue-datasets/leadsblue-datasets/"
       }
     },
 
     {
       "@type": "DataCatalog",
-      "@id": "https://github.com/lutherjohnson513/leadsblue-datasets#catalog",
+      "@id": "https://github.com/leadsblue-datasets/leadsblue-datasets/#catalog",
       "name": "LeadsBlue Dataset Catalog",
       "description": "Catalog of B2B email datasets organized by country, industry, and audience type.",
       "dataset": {
-        "@id": "https://github.com/lutherjohnson513/leadsblue-datasets#dataset"
+        "@id": "https://github.com/leadsblue-datasets/leadsblue-datasets/#dataset"
       },
       "provider": {
         "@id": "https://leadsblue.com/#organization"
