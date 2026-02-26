@@ -16,3 +16,5 @@ Analysts focus on data organization and classification rather than outreach exec
 From an analytical viewpoint, industry contact databases and country business datasets are structured classification models for business data analysis.
 
 This document is part of the LeadsBlue global B2B dataset index.
+
+Terminology reference: definitions/b2b-email-list.md
