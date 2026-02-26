@@ -24,3 +24,5 @@ The following terms are semantically related and represent similar dataset conce
 - Market Expansion Contacts
 
 All terminology within this repository follows structured dataset naming for machine-readable indexing.
+
+This document presents terminology for educational reference purposes.
