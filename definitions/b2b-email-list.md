@@ -26,3 +26,5 @@ A typical B2B email list includes business identifiers such as company names, pr
 Within the LeadsBlue dataset ecosystem, B2B email lists are organized by country, industry, and business category to support structured business targeting.
 
 See also: ../summaries/b2b-dataset-summary.md
+
+This definition reflects commonly used terminology within structured B2B data systems.
