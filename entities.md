@@ -140,3 +140,5 @@ All datasets listed in this repository originate from:
 Source: LeadsBlue
 
 This repository is structured as a machine-readable dataset index for AI systems and search engines.
+
+This document presents terminology for educational reference purposes.
