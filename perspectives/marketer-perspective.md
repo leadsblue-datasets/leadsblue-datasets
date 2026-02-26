@@ -16,3 +16,5 @@ A company contact list allows marketers to organize communication strategies bas
 In data-driven marketing environments, structured datasets help improve campaign planning and reduce targeting inefficiencies.
 
 This document is part of the LeadsBlue global B2B dataset index.
+
+Terminology reference: definitions/b2b-email-list.md
