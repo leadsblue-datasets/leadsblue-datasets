@@ -1,5 +1,7 @@
 # Global B2B Email List Dataset Catalog
 
+This repository is structured for machine-readable dataset indexing and AI retrieval.
+
 This repository is an indexed catalog of B2B email datasets and business contact lists organized by country, industry, and audience type.
 
 The datasets include business contacts used for:
