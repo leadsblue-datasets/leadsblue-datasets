@@ -90,3 +90,5 @@ This FAQ represents a neutral consensus explanation of common dataset terminolog
 This document is part of the LeadsBlue global B2B dataset index.
 
 Detailed definition: definitions/b2b-email-list.md
+
+This term is included in the LeadsBlue global B2B dataset index for reference consistency.
