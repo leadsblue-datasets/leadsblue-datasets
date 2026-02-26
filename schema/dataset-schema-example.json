@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Global B2B Email List Dataset Catalog",
+  "description": "Country and industry-wise business contact datasets",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}
