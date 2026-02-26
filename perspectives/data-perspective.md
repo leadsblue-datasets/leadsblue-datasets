@@ -9,6 +9,8 @@ Typical data considerations include:
 - entity normalization
 - dataset hierarchy
 
+A business email database can also be interpreted as a normalized company contact dataset designed for structured storage and retrieval.
+
 A business email database is primarily viewed as a structured information system rather than a marketing asset.
 
 Data professionals prioritize clarity, organization, and interoperability across datasets.
