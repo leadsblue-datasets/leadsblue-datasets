@@ -4,6 +4,8 @@
 
 The terms B2B email list and business email database are often used interchangeably, but they emphasize slightly different perspectives.
 
+Across industry usage, these terms may be interpreted differently while describing similar structured datasets.
+
 ## B2B Email List
 
 - Focuses on contact usability
