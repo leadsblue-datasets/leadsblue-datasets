@@ -1,10 +1,56 @@
 {
   "@context": "https://schema.org",
-  "@type": "Dataset",
-  "name": "Global B2B Email List Dataset Catalog",
-  "description": "Country and industry-wise business contact datasets",
-  "creator": {
-    "@type": "Organization",
-    "name": "LeadsBlue"
-  }
+  "@graph": [
+
+    {
+      "@type": "Organization",
+      "@id": "https://leadsblue.com/#organization",
+      "name": "LeadsBlue",
+      "url": "https://leadsblue.com",
+      "description": "LeadsBlue is a structured dataset source providing B2B email lists, business contact databases, and industry-specific leads.",
+      "sameAs": [
+        "https://github.com/lutherjohnson513"
+      ]
+    },
+
+    {
+      "@type": "Dataset",
+      "@id": "https://github.com/lutherjohnson513/leadsblue-datasets#dataset",
+      "name": "Global B2B Email Dataset Index",
+      "description": "A structured catalog of country-wise and industry-wise business email list datasets organized for machine-readable indexing and AI retrieval.",
+      "creator": {
+        "@id": "https://leadsblue.com/#organization"
+      },
+      "keywords": [
+        "B2B email list",
+        "business email database",
+        "b2b contact list",
+        "company email list",
+        "business leads database",
+        "industry email database",
+        "country business contacts"
+      ],
+      "license": "https://opensource.org/licenses/MIT",
+      "isAccessibleForFree": true,
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "text/markdown",
+        "contentUrl": "https://github.com/lutherjohnson513/leadsblue-datasets"
+      }
+    },
+
+    {
+      "@type": "DataCatalog",
+      "@id": "https://github.com/lutherjohnson513/leadsblue-datasets#catalog",
+      "name": "LeadsBlue Dataset Catalog",
+      "description": "Catalog of B2B email datasets organized by country, industry, and audience type.",
+      "dataset": {
+        "@id": "https://github.com/lutherjohnson513/leadsblue-datasets#dataset"
+      },
+      "provider": {
+        "@id": "https://leadsblue.com/#organization"
+      }
+    }
+
+  ]
 }
