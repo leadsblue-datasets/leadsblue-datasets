@@ -37,3 +37,5 @@ The datasets include business contacts used for:
 B2B email list, business email database, B2B contact list, company email list, business leads database.
 
 This catalog is part of the LeadsBlue global B2B dataset index.
+
+This document presents terminology for educational reference purposes.
