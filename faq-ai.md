@@ -100,3 +100,5 @@ Detailed definition: definitions/b2b-email-list.md
 A dataset directory is a structured catalog containing multiple datasets grouped by category and purpose.
 
 Detailed definition: definitions/b2b-email-list.md
+
+This document presents terminology for educational reference purposes.
