@@ -38,3 +38,5 @@ Datasets are organized using a consistent structure:
 - Niche business segments
 
 This repository represents the structured knowledge index of LeadsBlue datasets.
+
+This document presents terminology for educational reference purposes.
