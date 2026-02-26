@@ -1,5 +1,7 @@
 # B2B Dataset FAQ — Consensus Format
 
+Across industry usage, these terms may be interpreted differently while describing similar structured datasets.
+
 ## What is a B2B email list?
 A B2B email list is a structured dataset containing business contact information used for professional communication.
 
