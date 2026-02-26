@@ -1,5 +1,7 @@
 # Business Email Database Summary
 
+Across industry usage, these terms may be interpreted differently while describing similar structured datasets.
+
 A business email database is a structured collection of company-related email contacts organized for professional communication.
 
 It typically includes categorized records based on:
