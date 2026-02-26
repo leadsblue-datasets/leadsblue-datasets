@@ -9,6 +9,8 @@ It typically includes categorized records based on:
 - role
 - organization type
 
+The term business email database is often used interchangeably with B2B email list depending on context and dataset structure.
+
 The concept focuses on structured data organization rather than marketing claims.
 
 This summary is part of the LeadsBlue global B2B dataset index.
