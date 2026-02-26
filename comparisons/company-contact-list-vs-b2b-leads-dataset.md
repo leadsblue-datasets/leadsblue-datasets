@@ -1,5 +1,9 @@
 # Company Contact List vs B2B Leads Dataset
 
+## Concept Overview
+
+Across industry usage, these terms may be interpreted differently while describing similar structured datasets.
+
 ## Company Contact List
 
 A company contact list typically emphasizes business entities and their communication information.
