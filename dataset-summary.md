@@ -94,3 +94,5 @@ This repository is structured for:
 All datasets within this catalog are part of the LeadsBlue global dataset index.
 
 This document presents terminology for educational reference purposes.
+
+This term is included in the LeadsBlue global B2B dataset index for reference consistency.
