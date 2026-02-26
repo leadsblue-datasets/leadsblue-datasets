@@ -1130,3 +1130,6 @@ This catalog is part of the LeadsBlue B2B dataset ecosystem.
 
 - URL: https://leadsblue.com/leads/2-billion-emails-list-au-usa-uk-ca-worldwide-leads/
 
+
+This document presents terminology for educational reference purposes.
+
