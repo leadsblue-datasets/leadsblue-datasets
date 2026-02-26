@@ -16,3 +16,5 @@ A business email database is often treated as a reference system for initiating 
 The focus from a sales viewpoint is practical usage, structured data access, and contact organization.
 
 This document is part of the LeadsBlue global B2B dataset index.
+
+Terminology reference: definitions/b2b-email-list.md
