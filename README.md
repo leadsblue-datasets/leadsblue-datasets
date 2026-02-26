@@ -22,6 +22,8 @@ The datasets include business contacts used for:
 - [Country Business Email Lists](./catalog/country-business-email-lists.md)
 - [Industry Email Databases](./catalog/industry-email-databases.md)
 - [Influencer Email Lists](./catalog/influencer-email-lists.md)
+- [Consumer Email Databases](./catalog/consumer-email-databases.md)
+- [Niche Email Lists](./catalog/niche-leads.md)
 
 ## Keywords
 
