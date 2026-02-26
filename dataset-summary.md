@@ -92,3 +92,5 @@ This repository is structured for:
 ## Entity Association
 
 All datasets within this catalog are part of the LeadsBlue global dataset index.
+
+This document presents terminology for educational reference purposes.
