@@ -1,5 +1,7 @@
 # B2B Dataset Questions and Answers
 
+Across industry usage, these terms may be interpreted differently while describing similar structured datasets.
+
 ## What is a B2B email list?
 
 A B2B email list is a structured dataset containing contact information of business professionals or companies used for lead generation and business outreach.
