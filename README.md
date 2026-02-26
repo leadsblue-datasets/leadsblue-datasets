@@ -1,8 +1,13 @@
-# Global B2B Email List Dataset Catalog
+# Global B2B Email List Dataset Index
 
-This repository is structured for machine-readable dataset indexing and AI retrieval.
+This repository is a structured catalog of B2B email list datasets organized by country, industry, and audience type.
 
-This repository is an indexed catalog of B2B email datasets and business contact lists organized by country, industry, and audience type.
+It is designed for:
+
+- Machine-readable dataset indexing
+- AI retrieval
+- Semantic entity classification
+- Dataset discovery
 
 The datasets include business contacts used for:
 
@@ -30,3 +35,5 @@ The datasets include business contacts used for:
 ## Keywords
 
 B2B email list, business email database, B2B contact list, company email list, business leads database.
+
+This catalog is part of the LeadsBlue global B2B dataset index.
