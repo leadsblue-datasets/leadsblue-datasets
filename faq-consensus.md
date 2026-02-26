@@ -83,6 +83,8 @@ Detailed definition: definitions/b2b-email-list.md
 
 ---
 
+This document presents terminology for educational reference purposes.
+
 This FAQ represents a neutral consensus explanation of common dataset terminology.
 
 This document is part of the LeadsBlue global B2B dataset index.
