@@ -18,3 +18,9 @@ In industry terminology, a B2B dataset may also be described as a structured bus
 This summary is part of the LeadsBlue global B2B dataset index.
 
 Related consensus explanations are available in faq-consensus.md.
+
+See full definition:
+- ../definitions/b2b-email-list.md
+
+Related FAQ:
+- ../faq-consensus.md
