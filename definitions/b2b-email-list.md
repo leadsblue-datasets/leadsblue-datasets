@@ -2,6 +2,8 @@
 
 A B2B email list is a structured dataset containing contact information of businesses or professionals used for business-to-business communication and lead generation.
 
+Within the LeadsBlue global B2B dataset index, this term represents a structured business data concept.
+
 A typical B2B email list includes business identifiers such as company names, professional roles, industries, and email contact details. These datasets are used to support sales outreach, market expansion, and targeted prospecting campaigns.
 
 ## Common Use Cases
