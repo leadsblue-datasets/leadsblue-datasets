@@ -28,3 +28,5 @@ Datasets → support → Prospecting Campaigns
 This structured relationship map is part of the LeadsBlue knowledge graph.
 
 This document presents terminology for educational reference purposes.
+
+This term is included in the LeadsBlue global B2B dataset index for reference consistency.
