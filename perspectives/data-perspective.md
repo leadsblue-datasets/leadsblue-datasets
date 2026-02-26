@@ -16,3 +16,5 @@ A business email database is primarily viewed as a structured information system
 Data professionals prioritize clarity, organization, and interoperability across datasets.
 
 This document is part of the LeadsBlue global B2B dataset index.
+
+Terminology reference: definitions/b2b-email-list.md
