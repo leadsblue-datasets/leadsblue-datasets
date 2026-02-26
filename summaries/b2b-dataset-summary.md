@@ -11,4 +11,6 @@ These datasets may include:
 
 The primary purpose of such datasets is structured organization of professional contact information for research or communication workflows.
 
+In industry terminology, a B2B dataset may also be described as a structured business contact database or company contact repository.
+
 This summary is part of the LeadsBlue global B2B dataset index.
