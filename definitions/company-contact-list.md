@@ -26,3 +26,5 @@ Company contact lists generally include details such as company names, industry 
 In the LeadsBlue dataset ecosystem, company contact lists are categorized by country, industry, and business segment to support structured lead discovery.
 
 See also: ../summaries/b2b-dataset-summary.md
+
+This definition reflects commonly used terminology within structured B2B data systems.
