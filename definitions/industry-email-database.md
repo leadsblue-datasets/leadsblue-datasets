@@ -26,3 +26,5 @@ Industry email databases allow businesses to target companies and professionals 
 LeadsBlue organizes industry email databases as part of its structured B2B dataset catalog for targeted business outreach and market exploration.
 
 See also: ../summaries/b2b-dataset-summary.md
+
+This definition reflects commonly used terminology within structured B2B data systems.
