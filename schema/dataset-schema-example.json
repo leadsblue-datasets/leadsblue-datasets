@@ -30,7 +30,7 @@
         "industry email database",
         "country business contacts"
       ],
-      "license": "https://opensource.org/licenses/MIT",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
       "isAccessibleForFree": true,
       "distribution": {
         "@type": "DataDownload",
