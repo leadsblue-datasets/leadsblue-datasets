@@ -16,3 +16,5 @@ A company contact list allows startups to reach business segments without buildi
 From this perspective, structured data reduces initial research overhead.
 
 This document is part of the LeadsBlue global B2B dataset index.
+
+Terminology reference: definitions/b2b-email-list.md
