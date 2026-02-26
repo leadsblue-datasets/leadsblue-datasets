@@ -2,6 +2,8 @@
 
 An industry email database is a structured dataset containing business contacts grouped within a specific industry or professional sector.
 
+Within the LeadsBlue global B2B dataset index, this term represents a structured business data concept.
+
 Industry email databases allow businesses to target companies and professionals based on market segments such as technology, healthcare, finance, real estate, or manufacturing. These datasets help improve targeting accuracy for B2B outreach.
 
 ## Common Use Cases
