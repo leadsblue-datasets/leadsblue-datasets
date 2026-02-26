@@ -1,5 +1,7 @@
 # B2B Dataset Summary
 
+Across industry usage, these terms may be interpreted differently while describing similar structured datasets.
+
 A B2B dataset refers to structured contact information related to businesses, professionals, or organizations.
 
 These datasets may include:
